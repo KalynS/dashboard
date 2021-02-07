@@ -1,0 +1,30 @@
+
+
+.dealGallery{
+    border: solid #c4c4c4 3px;
+    display: flex;
+    background-color:rgb(5, 128, 168);
+    margin-right: 175px;
+    margin-left: 50px;
+}
+
+.headerContainer {
+    border-color: lightgray;
+    border-style: solid;
+    border-width: 2px;
+    color: white;
+    display: flex;
+    margin-right: -20px;
+    margin-left: 50px;
+    width: 200px;
+}
+.status {
+    border: 3px lightgray solid;
+}
+.status-count {
+    margin-left: 30px;
+    border: 3px lightgray solid;
+    font-size: medium;
+}
+
+

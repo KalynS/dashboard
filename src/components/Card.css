@@ -1,0 +1,53 @@
+.card{
+    border: 2px;
+    border-style:solid;
+    padding: 10px;
+    border-color:#c4c4c4;
+   margin-top: 3px;
+   width: 350px;
+   height: 300px;
+   margin-left: 50px;
+}
+
+#picture{
+    width:60px;
+    float: left;
+    border-radius: 50%;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+img {
+    height: 200px;
+    width: 40%;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: lightgray;
+    float: left;
+}
+.dealAmount {
+    color: green;
+    font-weight:bolder;
+    font-size: large;
+    font-style: bold;
+    text-align: right;
+    margin-right: 5%;
+    margin-bottom: 100px;
+}
+.dealPath{
+    color:steelblue;
+    text-align: left;
+    margin-left: 3%;
+    font-weight: 500;
+
+}
+.dealStage{
+    text-align:center;
+    margin-bottom: 100px;
+    
+
+}

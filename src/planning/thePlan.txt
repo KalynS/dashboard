@@ -1,0 +1,60 @@
+
+Tags Needed
+
+1. Card container by div
+
+2. Headers 
+
+3. Paragraph Tags
+
+You can only pass data down not up. Parent give child their genetics 
+
+Components Structure:
+Needs:
+Cards container inside the div after the return .
+All 
+
+Statically 
+Component Structure
+
+1. app.js will render deal cycle gallery & card gallery
+
+
+2. Deal Cycle Gallery - will render Deal Cycle  
+    - import the deal cycle into the gallery
+
+
+3. Card Gallery - will render all of the card elements.
+    - import the cards into the gallery
+
+
+4. Deal Cycle - the individual status bar
+    -css:
+        *white border on the right and altered border radius
+        *5 background colors: yellow, purple, blue, green, red
+        *font color: white
+
+    - name of status: 
+        *Needs Analysis
+        *Presentation
+        *Proposal
+        *Closed Won
+        *Closed Lost
+    - count of # sales currently in the status stage    
+
+
+5. Card container by div
+    - file path showing some sort of index#, company name & goods sold
+
+    - <img> image photo with a circular border
+
+    - <p> company name - </p>
+
+    - <p> salesperson - </p>
+
+    - $ sales amount 
+
+    - Status of sale
+
+    Render multiple instances and pass then props 
+    

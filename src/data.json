@@ -1,0 +1,74 @@
+[
+    {
+        "dealPath": "926/GemStack/SpaceGems",
+        "clientCompany": "GemStack",
+        "salesRepName": "Roger Campbell II",
+        "dealAmount": "9,880.00",
+        "dealStage": "Proposal",
+        "image": "https://images.unsplash.com/photo-1584940120743-8981ca35b012?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=2000&q=80" 
+    },
+    {
+        "dealPath": "2187/TheRepublic/Blaster",
+        "clientCompany": "TheRepublic",
+        "salesRepName": "Leia Organa",
+        "dealAmount": "4,000,000,880.00",
+        "dealStage": "Closed Won",
+        "image": "https://images.unsplash.com/photo-1534030347209-467a5b0ad3e6?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=668&q=80"
+    },
+    {
+        "dealPath": "2/TheEmpire/DeathStars",
+        "clientCompany": "The Empire",
+        "salesRepName": "Anakin Skywalker",
+        "dealAmount": "2,000,000,000.00",
+        "dealStage": "Closed Lost",
+        "image": "https://images.unsplash.com/photo-1573497491765-dccce02b29df?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
+    },
+    {
+        "dealPath": "1997/Chulak/StaffWeapons",
+        "clientCompany": "Chulak",
+        "salesRepName": "Teal'c",
+        "dealAmount": "10,000,000,000.00",
+        "dealStage": "Presentation",
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
+    },
+    {
+        "dealPath": "2001/TheDoctor/TARDIS",
+        "clientCompany": "The Doctor",
+        "salesRepName": "Derek Shephard",
+        "dealAmount": "3,000,000.00",
+        "dealStage": "Needs Analysis",
+        "image": "https://images.unsplash.com/photo-1568493021943-4077b55c95a3?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=668&q=80"
+    },
+    {
+        "dealPath": "2011/TheRose/TARDIS",
+        "clientCompany": "The Rose",
+        "salesRepName": "Tracey Rivera",
+        "dealAmount": "4,000,000.00",
+        "dealStage": "Closed Won",
+        "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
+    },
+    {
+        "dealPath": "1995/TheDoctor/SaleOfGoods",
+        "clientCompany": "The Anchor",
+        "salesRepName": "Mckenzie Tatti",
+        "dealAmount": "3,000,000.00",
+        "dealStage": "Needs Analysis",
+        "image": "https://images.unsplash.com/photo-1573496358961-3c82861ab8f4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
+    },
+    {
+        "dealPath": "2020/TheCoffeeShop/SaleOfGoods",
+        "clientCompany": "The Coffee Shop",
+        "salesRepName": "Samantha Smith",
+        "dealAmount": "2,000,000.00",
+        "dealStage": "Closed Lost",
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
+    },
+    {
+        "dealPath": "1983/TheDoctor/TARDIS",
+        "clientCompany": "The Doctor",
+        "salesRepName": "Mark Taylor",
+        "dealAmount": "1,000,000.00",
+        "dealStage": "Needs Analysis",
+        "image": "https://images.unsplash.com/photo-1543132220-4bf3de6e10ae?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=668&q=80"
+    }
+]

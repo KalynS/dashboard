@@ -1,25 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import './App.css';
+import CardGallery from "./components/CardGallery";
+import DealCycleGallery from "./components/DealCycleGallery";
+import React, { Component } from 'react';
+import Data from "./data.json";
+import Dealdata from "./assets/dealCycleData.json";
+
+class App extends Component {
+  constructor() {
+    super()
+    this.state = {
+      salesPersonData: Data,
+      DealCycleData: Dealdata
+    }
+  }
+  render() {
+    // console.log(data)
+    return (
+      <div>
+        <DealCycleGallery DealCycleData={this.state.DealCycleData}/>
+        <CardGallery salesPersonData={this.state.salesPersonData} />
+      </div>
+    );
+  }
 }
 
 export default App;
